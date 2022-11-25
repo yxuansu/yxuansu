@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Yixuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxuansu&show_icons=true&theme=radical)
+![Yixuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxuansu&show_icons=true&theme=synthwave)
 
 
 <!--
