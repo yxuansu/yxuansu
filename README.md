@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a final-year Ph.D. student at Language Technology Lab, University of Cambridge. I am broadly interested in natural language processing (NLP) and machine learning. The majority of my research lies in text generation. Recently, I focus my research on the topic of contrastive learning and the study of its potential in language model pre-training, discourse representation learning, knowledge probing, open-ended text generation, and multi-modal text generation.
+I am a final-year Ph.D. student at Language Technology Lab, University of Cambridge. I am broadly interested in natural language processing (NLP) and machine learning. The majority of my research lies in text generation. Recently, I focus my research on the topic of contrastive learning and the study of its potential in language model pre-training, discourse representation learning, knowledge probing, open-ended text generation, and multi-modal text generation. Please refer to [[my personal page]](https://yxuansu.github.io/) for the complete list of my research.
 
 Personally, I really like pandas. The one in my icon is my favourite and her name is Hehua.
 
